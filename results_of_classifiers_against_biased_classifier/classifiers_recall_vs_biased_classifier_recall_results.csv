@@ -1,0 +1,7 @@
+,Classifier,mean Recall classifier,classifier Recall - biased Recall,Wilcoxon test p-value
+0,Decision Tree,0.404,-0.596,3.8346046406715645e-18
+1,Naive Bayes,0.3278,-0.6722,3.856747903786012e-18
+2,SVM,0.3091,-0.6909000000000001,3.847832650749347e-18
+3,MLP,0.4594,-0.5406,3.851309447062108e-18
+4,Random Forest,0.4365,-0.5635,3.8408879821549446e-18
+5,Biased Classifier,1.0,0.0,-
